@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D03C54A2-26D9-41BF-8AD2-70A2307816B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InstaTwit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB338453-47C6-4C7B-AC69-54399F1069BD</key>
+		<string>https://github.com/dpilone/Head-First-iPhone-iPad-Development-3rd-Edition</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>chapter01/InstaTwit/InstaTwit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB338453-47C6-4C7B-AC69-54399F1069BD</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dpilone/Head-First-iPhone-iPad-Development-3rd-Edition</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB338453-47C6-4C7B-AC69-54399F1069BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB338453-47C6-4C7B-AC69-54399F1069BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>chapter1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
