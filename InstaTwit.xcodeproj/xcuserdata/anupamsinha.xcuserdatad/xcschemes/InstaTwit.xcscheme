@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DA87D043170F6534007D4CE9"
-               BuildableName = "InstaTwitTests.octest"
+               BuildableName = "InstaTwitTests.xctest"
                BlueprintName = "InstaTwitTests"
                ReferencedContainer = "container:InstaTwit.xcodeproj">
             </BuildableReference>

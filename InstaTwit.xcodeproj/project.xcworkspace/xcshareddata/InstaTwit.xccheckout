@@ -5,36 +5,45 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D03C54A2-26D9-41BF-8AD2-70A2307816B1</string>
+	<string>D49A3836-38DF-4754-B622-4493C466B51B</string>
 	<key>IDESourceControlProjectName</key>
 	<string>InstaTwit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DB338453-47C6-4C7B-AC69-54399F1069BD</key>
-		<string>https://github.com/dpilone/Head-First-iPhone-iPad-Development-3rd-Edition</string>
+		<key>C609F8F9-D729-476A-AE43-DA6E3C7B5692</key>
+		<string>https://github.com/AnupamSinha/InstaTwit/trunk</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>chapter01/InstaTwit/InstaTwit.xcodeproj/project.xcworkspace</string>
+	<string>InstaTwit.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DB338453-47C6-4C7B-AC69-54399F1069BD</key>
-		<string>../../../..</string>
+		<key>C609F8F9-D729-476A-AE43-DA6E3C7B5692</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>C609F8F9-D729-476A-AE43-DA6E3C7B5692</key>
+		<string>https://github.com/AnupamSinha/InstaTwit</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/dpilone/Head-First-iPhone-iPad-Development-3rd-Edition</string>
+	<string>https://github.com/AnupamSinha/InstaTwit/trunk/InstaTwit.xcodeproj</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DB338453-47C6-4C7B-AC69-54399F1069BD</string>
+	<string>C609F8F9-D729-476A-AE43-DA6E3C7B5692</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DB338453-47C6-4C7B-AC69-54399F1069BD</string>
+			<string>C609F8F9-D729-476A-AE43-DA6E3C7B5692</string>
 			<key>IDESourceControlWCCName</key>
-			<string>chapter1</string>
+			<string>InstaTwit</string>
 		</dict>
 	</array>
 </dict>
