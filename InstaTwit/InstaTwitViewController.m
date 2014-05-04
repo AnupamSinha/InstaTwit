@@ -22,10 +22,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.activities = @[@"sleeping", @"eating", @"working", @"thinking",
-                        @"crying", @"begging", @"leaving", @"shopping", @"hello worlding"];
-    self.feelings = @[@"i m cool", @"sad", @"happy", @"ambivalent", @"nauseous",
-                      @"psyched", @"confused", @"hopeful", @"anxious"];
+    self.activities = @[@"networking", @"coding", @"cheating", @"disturbing",
+                        @"plying", @"ChickenIning", @"chaliIng", @"mooking", @"wondering"];
+    self.feelings = @[@"curious", @"strange", @"crazy", @"WTF", @"ROFL",
+                      @"great", @"strangled", @"hip hip hooray", @"WHOA"];
 }
 
 #pragma mark -
@@ -36,7 +36,8 @@
 }
 
 - (IBAction)tweetButtonTapped:(id)sender {
-    NSString *message = [NSString stringWithFormat:@"%@ Test Tweet I'm %@ and feeling %@ about it.",
+    NSLog(@"Is this a logging message");
+    NSString *message = [NSString stringWithFormat:@"%@ I'm %@ and feeling %@ about it.",
                          self.notesField.text ? self.notesField.text : @"",
                          self.activities[[self.tweetPicker selectedRowInComponent:0]],
                          self.feelings[[self.tweetPicker selectedRowInComponent:1]]];
